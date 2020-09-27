@@ -37,5 +37,29 @@ This week I was comfortable with the concepts that I was taught in class therefo
 ### **What theory proved to be useful and why? What have I learnt from this?**
 The wisdom in numbers proved to be a very useful theory that was taught in today’s lesson. From this theory I have learnt that many people hold a large database of information that is unique from one another and through the use of group think this knowledge can be used to make decisions and solve problems effectively and efficiently.
 
+## *Week 3*
+
+### **What have I learnt this week?**
+This week I learnt about the modelling of people which can be carried out in a rational, behaviour or rule-based manner and how they enable us to understand human psychology from different viewpoints. This week I have learnt about how models are able to provide explanations, insights and multiple perspectives on how people behave, decide, conceal or reveal information, add value in a group and solve problems in a group. Upon reflection, this week’s lesson has helped to realise that modelling people is not as difficult as I thought it is and that it can be accomplished by implementing different strategies. 
+
+
+### **What do I 'now know' that I did not before?**
+After revising the concepts discussed in this week I am able to say that I now know how models are able to provide explanations, insight and multiple perspective on how people behave, decide, conceal or reveal information, add value in a group and solve problems in a groups. From the three different models I know that the rational behaviour model can be the most effective as it is a really good benchmark. However, people make systematic errors in rational thinking and often do not act optimally which can make it an unrealistic method of modelling. I know that as time proceeds, we learn rules of thumb and was intrigued to find that they often outperform the most sophisticated strategies. I understand that decision making models are created for normative and positive reasons and there are two types of problems; the multi-criterion and the under uncertainty. I now know that under uncertainty probability is essential for decision making and that decision trees are useful when there are contingencies as they allow us to infer how someone views the world. I know realise the value of information from the examples discussed in class as it can have a significant impact on decision making. I know that in a group people with differing power can add differing levels of value and this can be calculated using the LOTB or Shapley method. Understanding the contribution of each individual can be an effective way to identify how the cost or the payoff can be efficiently divided.
+
+
+### **What insights have I gained?**
+One interesting idea I learnt this week was that humans have two different types of thinking systems one fast that is intuitive and one slow that uses rigorous thinking, where the latter gives rise to cognitive biases. I have learnt that as time proceeds, we learn rules of thumb and was intrigued to find that they often outperform the most sophisticated strategies. When learning about the Shapley model and watching the video on ‘visiting friends in Europe’ I was able to realise that some of the decisions I have made loosely coincided with this method of thinking. I understand that when signalling, costliness carries more meaning and significance as evident in the ‘girl in the foyer’ story and how I can use signalling to improve my personal life.
+
+
+### **What are (my/the) perceived strengths and weaknesses that I have observed?**
+My strengths this week has been my ability to grasp on the key aspects of specific new concepts by reflecting on my past experiences. Although, I was overwhelmed with the amount of content this week but was happy to learn and expand my knowledge and am hoping to apply this knowledge effectively in my career. However, I have noticed a few weaknesses during this week’s lessons one being that I find it difficult to grasp a good understanding of the mathematical concepts that are introduced. I have also observed that my lack of time management is hindering my ability to write these reflective entries on time. 
+
+
+
+### **What were the challenges I have encountered/observed and how well (did I/my team) handle them?**
+
+
+### **What theory proved to be useful and why? What have I learnt from this?**
+The costly signalling theory proved to be very useful as it very true that costliness carries meaning and that the significance attached to something is felt in direct proportion to the expense in which it is communicated in. Additionally, the idea that humans have two different thinking systems, one fast that is intuitive, and one slow that uses rigorous thinking put forward by Danny Kahnemann was very interesting to me. This idea explains why there is systematic errors in the thinking system, and it is because some utilise the fast thinking system whereas others utilise the slow thinking system.
 
 
